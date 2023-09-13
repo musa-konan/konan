@@ -6,8 +6,6 @@ apt update
 apt upgrade
 apt install git
 
-git clone https://github.com/Ahmed-Woode/Facebook-woode
+cd Facebook-konan 
 
-cd Facebook-woode
-
-python woode-hker.py
+python konan-hker.py
